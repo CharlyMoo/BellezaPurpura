@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #ffffce;
+}
+
+
+
+h1{
+    font-size: 45px;
+    color: #960bd1;
+    text-align: center;
+    background-color:pink;
+    text-shadow: 0 0 1.5px aqua, 0 0 3.5px #8d068d;
+    border: 3px inset #c747fd;
+}
+
+p{
+    font-size: 17px;
+    color: #900bf0;
+}
+
+div.container{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    text-align: justify;
+    color: #900bf0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#mifoto{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: .5px solid #800bf0;  
+}
+
