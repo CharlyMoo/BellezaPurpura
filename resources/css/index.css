@@ -6,9 +6,11 @@
 
 
 h1{
-    color: #900bf0;
+    display: inline-block;
+    color:aliceblue ;
     text-align: center;
-    background-color:rgba(153, 109, 255, 0.712);
+    background-color:#900bf0;
+    width: 75%;
     /* text-shadow: 0 0 1.5px aqua, 0 0 3.5px #8d068d; */
     /* border: 3px inset #c747fd; */
 }
@@ -29,6 +31,11 @@ a {
     text-decoration: none;
 }
 
+button{
+    color:aliceblue;
+    background-color: #800bf0;
+}
+
 #mifoto{
     height: 200px;
     width: 200px;
@@ -42,8 +49,5 @@ a {
     text-align: center;
 }
 
-button{
-    color:aliceblue;
-    background-color: #800bf0;
-}
+
 
