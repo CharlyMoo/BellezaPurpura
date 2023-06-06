@@ -6,12 +6,11 @@
 
 
 h1{
-    font-size: 45px;
-    color: #960bd1;
+    color: #900bf0;
     text-align: center;
-    background-color:pink;
-    text-shadow: 0 0 1.5px aqua, 0 0 3.5px #8d068d;
-    border: 3px inset #c747fd;
+    background-color:rgba(153, 109, 255, 0.712);
+    /* text-shadow: 0 0 1.5px aqua, 0 0 3.5px #8d068d; */
+    /* border: 3px inset #c747fd; */
 }
 
 p{
@@ -19,9 +18,6 @@ p{
     color: #900bf0;
 }
 
-div.container{
-    text-align: center;
-}
 
 ul{
     display: inline-block;
@@ -40,5 +36,14 @@ a {
     margin-left: auto;
     margin-right: auto;
     border: .5px solid #800bf0;  
+}
+
+.main{
+    text-align: center;
+}
+
+button{
+    color:aliceblue;
+    background-color: #800bf0;
 }
 
